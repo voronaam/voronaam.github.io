@@ -2,6 +2,7 @@
 
 ## BC Green Party
 
+![Photo of Alexandra Morton](/images/image10.png)
 
 [https://www.bcgreens.ca/alexandra_morton](https://www.bcgreens.ca/alexandra_morton)
 
