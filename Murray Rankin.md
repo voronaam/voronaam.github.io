@@ -1,6 +1,7 @@
 # Murray Rankin
 
-NDP
+## NDP
 
 [Twitter](https://example.org)
+
 [Main Site](https://example.com)
