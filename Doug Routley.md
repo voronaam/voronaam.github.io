@@ -2,7 +2,7 @@
 
 ## BC NDP
 
-![Photo of Doug Routley](images/image16.png)
+![Photo of Doug Routley](images/image16.jpg)
 
 [https://dougroutley.bcndp.ca/](https://dougroutley.bcndp.ca/)
 
