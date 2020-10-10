@@ -6,4 +6,4 @@
 
 [https://adamwalker.bcndp.ca](https://adamwalker.bcndp.ca)
 
-[https://twitter.com/bcndp](https://twitter.com/bcndp)
+[Twitter](https://twitter.com/bcndp)
