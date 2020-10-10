@@ -6,7 +6,7 @@
 
 [https://www.bcgreens.ca/alexandra_morton](https://www.bcgreens.ca/alexandra_morton)
 
-[https://twitter.com/alex4salmon](https://twitter.com/alex4salmon)
+[Twitter](https://twitter.com/alex4salmon)
 
 Alexandra Morton is a biologist and environmental activist who has lived and worked in the North Island villages of Echo Bay and Sointula since the early 1980s. 
 
