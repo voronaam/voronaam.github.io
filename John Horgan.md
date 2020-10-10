@@ -2,7 +2,7 @@
 
 ## Leader of BC NDP
 
-! [photo of John Horgan](images/John Horgan.jpg)
+! [photo of John Horgan](images/John%20Horgan.jpg)
 
 [https://www.bcndp.ca/about-john](https://www.bcndp.ca/about-john)
 
