@@ -1,4 +1,4 @@
-#Gillian Anderson
+# Gillian Anderson
 
 ## BC Green Party
 
@@ -6,4 +6,4 @@
 
 [https://www.bcgreens.ca/gillian_anderson](https://www.bcgreens.ca/gillian_anderson)
 
-[https://twitter.com/ComoxGreens](https://twitter.com/ComoxGreens)
+[Twitter](https://twitter.com/ComoxGreens)
