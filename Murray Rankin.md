@@ -1,7 +1,12 @@
 # Murray Rankin
 
-## NDP
+## BC NDP
 
-[Twitter](https://example.org)
+![photo of Murrey Rankin](images/image31.jpg)
 
-[Main Site](https://example.com)
+[https://www.murrayrankin.com/jointeamrankin](https://www.murrayrankin.com/jointeamrankin)
+
+[Facebook] (https://www.facebook.com/MurrayRankinNDP)
+
+[Twitter](https://twitter.com/MurrayRankinNDP)
+
