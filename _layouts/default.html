@@ -10,6 +10,18 @@
   </head>
 
   <body>
+    <script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(){
+  // Make all the links open in new window
+  var all_links = document.querySelectorAll('a');
+  for (var i = 0; i < all_links.length; i++){
+    var a = all_links[i];
+    a.rel = 'noopener';
+    a.target = '_blank';
+  }
+});
+     </script>
+    
     <div class="container">
       <section id="main_content">
         {{ content }}
