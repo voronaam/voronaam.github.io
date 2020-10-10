@@ -1,4 +1,4 @@
-#Ronna-Rae Leonard
+# Ronna-Rae Leonard
 
 ## BC NDP Party
 
@@ -6,4 +6,4 @@
 
 [https://ronnaraeleonard.bcndp.ca](https://ronnaraeleonard.bcndp.ca)
 
-[https://twitter.com/ronnaraeleonard](https://twitter.com/ronnaraeleonard)
+[Twitter](https://twitter.com/ronnaraeleonard)
