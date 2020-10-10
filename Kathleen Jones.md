@@ -6,5 +6,5 @@
 
 [https://www.bcliberals.com/team/kathleen-jones/](https://www.bcliberals.com/team/kathleen-jones/)
 
-[https://twitter.com/KathleenNanaimo](https://twitter.com/KathleenNanaimo)
+[Twitter](https://twitter.com/KathleenNanaimo)
 
