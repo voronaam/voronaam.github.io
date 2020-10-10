@@ -1,4 +1,4 @@
-#Brennan Day
+# Brennan Day
 
 ## BC Liberal Party
 
@@ -6,4 +6,4 @@
 
 [https://www.bcliberals.com/team/brennan-day/](https://www.bcliberals.com/team/brennan-day/)
 
-[https://twitter.com/daycomoxvalley](https://twitter.com/daycomoxvalley)
+[Twitter](https://twitter.com/daycomoxvalley)
