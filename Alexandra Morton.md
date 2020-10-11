@@ -4,7 +4,7 @@
 
 ![Photo of Alexandra Morton](/images/image10.png)
 
-[https://www.bcgreens.ca/alexandra_morton](https://www.bcgreens.ca/alexandra_morton)
+[Official Page](https://www.bcgreens.ca/alexandra_morton)
 
 [Twitter](https://twitter.com/alex4salmon)
 
