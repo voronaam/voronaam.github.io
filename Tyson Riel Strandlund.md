@@ -2,4 +2,4 @@
 
 ## Communist Party of BC
 
-[Official Page](Tyson Riel Strandlund)
+[Official Page](http://cpcbc.ca/?page_id=75)
