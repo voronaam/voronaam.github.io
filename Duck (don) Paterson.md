@@ -2,7 +2,7 @@
 
 ## BC Liberal Party
 
-![photo of Duck Paterson](images/image9.png)
+![photo of Duck Paterson](images/image9.jpg)
 
 [Official Page](https://www.bcliberals.com/team/duck-paterson/)
 
