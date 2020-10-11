@@ -19,6 +19,13 @@ document.addEventListener("DOMContentLoaded", function(){
     a.rel = 'noopener';
     a.target = '_blank';
   }
+  
+  // Make all images 200px width
+  var all_imgs = document.querySelectorAll('img');
+  for (var i = 0; i < all_imgs.length; i++){
+    var img = all_imgs[i];
+    img.width = '200px';
+  }
 });
      </script>
     
